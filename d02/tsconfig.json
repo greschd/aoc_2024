@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "noEmitOnError": true,
+        "target": "ES2015",
+        "module": "nodenext",
+        "moduleResolution": "nodenext",
+    },
+    "files": [
+        "./main.ts"
+    ]
+}
