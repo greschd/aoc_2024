@@ -1,0 +1,4 @@
+*.js
+.vscode
+input.txt
+node_modules
